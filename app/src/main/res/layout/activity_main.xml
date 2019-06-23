@@ -1,0 +1,211 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:scrollbars="vertical"
+    tools:context=".MainActivity" >
+
+
+
+    <TextView
+        android:id="@+id/intStatusLabel"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Internet Connection Status: " />
+
+    <TextView
+        android:id="@+id/intStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/intStatusLabel"
+        android:layout_toRightOf="@id/intStatusLabel"
+        android:text=""
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/space4"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_below="@id/intStatus"
+        android:text="" />
+
+    <ExpandableListView
+        android:id="@+id/funCodeELV"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/space4"
+        android:visibility="visible"
+        >
+    </ExpandableListView>
+
+    <TextView
+        android:id="@+id/space2"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_toEndOf="@id/funCodeELV"
+        android:layout_toRightOf="@id/funCodeELV"
+        android:text="" />
+
+
+    <TextView
+        android:id="@+id/funCodeText"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_toEndOf="@id/funCodeELV"
+        android:layout_toRightOf="@id/funCodeELV"
+        android:layout_below="@id/space2"
+
+        android:textSize="15dp"/>
+
+
+    <TextView
+        android:id="@+id/space1"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/funCodeELV"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="" />
+
+    <ExpandableListView
+        android:id="@+id/nodeTypeELV"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/space1"
+        android:layout_alignParentStart="true"
+        android:visibility="visible"
+        >
+    </ExpandableListView>
+
+    <TextView
+        android:id="@+id/space3"
+        android:layout_width="180dp"
+        android:layout_height="15dp"
+        android:layout_toEndOf="@id/nodeTypeELV"
+        android:layout_toRightOf="@id/nodeTypeELV"
+        android:layout_below="@id/space1"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/nodeTypeText"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_toEndOf="@id/nodeTypeELV"
+        android:layout_toRightOf="@id/nodeTypeELV"
+        android:layout_below="@id/space3"
+
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/space5"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_below="@id/nodeTypeELV"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/NodeIDTextView"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nodeTypeELV"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Node ID: "/>
+
+    <EditText
+        android:id="@+id/NodIDEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nodeTypeELV"
+        android:layout_toEndOf="@id/NodeIDTextView"
+        android:layout_toRightOf="@id/NodeIDTextView"
+        android:inputType="number"/>
+
+    <TextView
+        android:id="@+id/PinNoTextView"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/NodIDEditText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Pin Number: " />
+
+    <EditText
+        android:id="@+id/PinNoEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/NodIDEditText"
+        android:layout_toEndOf="@id/PinNoTextView"
+        android:layout_toRightOf="@id/PinNoTextView"
+        android:enabled="false"
+        android:inputType="number"/>
+
+    <TextView
+        android:id="@+id/space0"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/PinNoEditText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="" />
+
+    <Button
+        android:id="@+id/buttonPublish"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:alpha="0.70"
+        android:elevation="0dp"
+        android:text="Send The Message"
+        android:layout_below="@id/space0"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColorHint="?android:attr/textColorHint" />
+
+
+    <TextView
+        android:id="@+id/space"
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:layout_below="@+id/buttonPublish"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="" />
+
+
+    <TextView
+        android:id="@+id/dataReceivedLabel"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/space"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Received Message:" />
+
+
+
+    <TextView
+        android:id="@+id/dataReceived"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@id/dataReceivedLabel"
+        android:layout_toRightOf="@id/dataReceivedLabel"
+        android:layout_below="@+id/space"
+        android:inputType="textMultiLine"
+        android:hint="\n"
+        android:singleLine="false"
+        android:textSize="10pt" />
+
+</RelativeLayout>

@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehdi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a408e7f8acdb45fe85a830ec4902686/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c87bfba4480ffba78f1e3c2e5eecb3bb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/43b4077cbbc51040cad8328a46aa0340/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/ad134b0f827f03a2e9fbc7ba404228ca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ec9a17814406016725e052359bd79d77/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/878eef8235dbd55aef09d777a70001f1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/bcc8df602344e9d4fd27a66320ca7a46/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/a7d3d61ec84ef31d20bb91e07c4d2e39/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/9b8f69c9e6dffcd1724e87ecaed805c9/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:9:22-72
+uses-sdk
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehdi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a408e7f8acdb45fe85a830ec4902686/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehdi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a408e7f8acdb45fe85a830ec4902686/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c87bfba4480ffba78f1e3c2e5eecb3bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c87bfba4480ffba78f1e3c2e5eecb3bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/43b4077cbbc51040cad8328a46aa0340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/43b4077cbbc51040cad8328a46aa0340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/ad134b0f827f03a2e9fbc7ba404228ca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/ad134b0f827f03a2e9fbc7ba404228ca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ec9a17814406016725e052359bd79d77/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ec9a17814406016725e052359bd79d77/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/878eef8235dbd55aef09d777a70001f1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/878eef8235dbd55aef09d777a70001f1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/bcc8df602344e9d4fd27a66320ca7a46/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/bcc8df602344e9d4fd27a66320ca7a46/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/a7d3d61ec84ef31d20bb91e07c4d2e39/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/a7d3d61ec84ef31d20bb91e07c4d2e39/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/9b8f69c9e6dffcd1724e87ecaed805c9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/9b8f69c9e6dffcd1724e87ecaed805c9/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+	tools:overrideLibrary
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+	android:targetSdkVersion
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:10:5-15:16
+		INJECTED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehdi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a408e7f8acdb45fe85a830ec4902686/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mehdi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a408e7f8acdb45fe85a830ec4902686/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c87bfba4480ffba78f1e3c2e5eecb3bb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c87bfba4480ffba78f1e3c2e5eecb3bb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/43b4077cbbc51040cad8328a46aa0340/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/43b4077cbbc51040cad8328a46aa0340/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/ad134b0f827f03a2e9fbc7ba404228ca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/ad134b0f827f03a2e9fbc7ba404228ca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ec9a17814406016725e052359bd79d77/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ec9a17814406016725e052359bd79d77/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/878eef8235dbd55aef09d777a70001f1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/878eef8235dbd55aef09d777a70001f1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/bcc8df602344e9d4fd27a66320ca7a46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/bcc8df602344e9d4fd27a66320ca7a46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/a7d3d61ec84ef31d20bb91e07c4d2e39/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/a7d3d61ec84ef31d20bb91e07c4d2e39/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/9b8f69c9e6dffcd1724e87ecaed805c9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/9b8f69c9e6dffcd1724e87ecaed805c9/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+	android:label
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+	android:fullBackupContent
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+	android:roundIcon
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+	android:icon
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+	android:allowBackup
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+	android:theme
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:24:13-37:19
+activity#com.example.mehdi.wsnandroid.MainActivity
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:27:17-33:20
+	android:exported
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:27:17-33:20
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:27:27-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:28:9-29:69
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:29:13-72
+category#android.intent.category.LAUNCHER
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:31:1-77
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:31:1-77
+service#org.eclipse.paho.android.service.MqttService
+ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:33:1-19
+	android:name
+		ADDED from /home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/WSNAndroid/app/src/main/AndroidManifest.xml:33:1-19
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c87bfba4480ffba78f1e3c2e5eecb3bb/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c87bfba4480ffba78f1e3c2e5eecb3bb/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/43b4077cbbc51040cad8328a46aa0340/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/43b4077cbbc51040cad8328a46aa0340/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/ad134b0f827f03a2e9fbc7ba404228ca/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/ad134b0f827f03a2e9fbc7ba404228ca/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ec9a17814406016725e052359bd79d77/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/ec9a17814406016725e052359bd79d77/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/878eef8235dbd55aef09d777a70001f1/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/878eef8235dbd55aef09d777a70001f1/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/bcc8df602344e9d4fd27a66320ca7a46/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/bcc8df602344e9d4fd27a66320ca7a46/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/a7d3d61ec84ef31d20bb91e07c4d2e39/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/a7d3d61ec84ef31d20bb91e07c4d2e39/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/9b8f69c9e6dffcd1724e87ecaed805c9/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/9b8f69c9e6dffcd1724e87ecaed805c9/AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/mehdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/0c5abce32d473eae4b6242cedffe99e5/AndroidManifest.xml:27:13-51
